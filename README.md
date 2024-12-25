@@ -1,0 +1,2 @@
+# Facial_expression_classification_based_on_mediapipe_facial_keypoints
+A binary classification method base on mediapipe facial keypoints using GCN
