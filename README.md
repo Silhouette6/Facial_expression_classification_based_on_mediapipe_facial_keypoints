@@ -10,12 +10,6 @@ This project implements a Graph Convolutional Network (GCN) model to classify fa
 2. **Graph Generation**: Utilize [MediaPipe](https://mediapipe.dev/) to extract keypoints from facial images and generate graph representations.
 3. **GCN Model Training**: Train a Graph Convolutional Network using the generated graphs to classify facial expressions.
 
-## Features
-
-- End-to-end pipeline from raw image data to classification results.
-- Graph-based representation of facial features for enhanced modeling.
-- Configurable hyperparameters for flexible experimentation.
-- Visualization of training metrics and learning rate scheduling.
 
 ## Prerequisites
 
